@@ -1,0 +1,6 @@
+{
+  "name": "صوت السعودية | تحويل النص إلى كلام",
+  "description": "منصة تحويل النص إلى كلام باللهجات السعودية مع تخصيص المنطقة، الجنس، نبرة الصوت، والمشاعر والتنزيل الفوري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
